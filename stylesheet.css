@@ -50,7 +50,7 @@ body
   position: relative;
   border-radius: 2px;
   align-items: center;
-  box-shadow: 2px 2px 2px #b66;
+  box-shadow: 2px 2px 2px #84D1F1;
 }
 
 /* decided that this was a poor
@@ -94,7 +94,7 @@ way to create a shadow*/
   position: absolute;
   content: "";
   display: block;
-  background: #fd0;
+  background: #84D1F1;
   width: 160px;
   height: 20%;
   left: -4px;
@@ -107,7 +107,7 @@ way to create a shadow*/
   position: absolute;
   content: "";
   display: block;
-  background: #e99;
+  background: #ffffff;
   width: 18px;
   height: 26%;
   left: -18px;
