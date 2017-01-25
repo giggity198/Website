@@ -42,7 +42,7 @@ body
 }
 
 .container {
-  background: #e99;
+  background: #ffffff;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
@@ -80,7 +80,7 @@ way to create a shadow*/
   position: relative;
   width: 160px;
   min-height: 160px;
-  background: #fd0;
+  background: #84D1F1;
   display: inline-block;
   border-radius: 2px;
   border-bottom-right-radius: 10px 30px;
