@@ -210,17 +210,17 @@ svg {
 }
 
 .text-copy:nth-child(2){
-	stroke: #B1B1B1;
+	stroke: #ffffff;
 	animation-delay: -2s;
 }
 
 .text-copy:nth-child(3){
-	stroke: #ffffff;
+	stroke: #000000;
 	animation-delay: -3s;
 }
 
 .text-copy:nth-child(4){
-	stroke: #13F7D8;
+	stroke: #000000;
 	animation-delay: -4s;
 }
 
