@@ -232,3 +232,6 @@ svg {
 @keyframes stroke-offset{
 	100% {stroke-dashoffset: -35%;}
 }
+div id="snow"{
+  z-index: 1; /* integer */
+}
