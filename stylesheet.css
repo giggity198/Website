@@ -232,6 +232,9 @@ svg {
 @keyframes stroke-offset{
 	100% {stroke-dashoffset: -35%;}
 }
+.back{
+	z-index:-100;
+}
 .front{
 	z-index:100;
 }
